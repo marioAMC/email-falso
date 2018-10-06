@@ -1,0 +1,16 @@
+{
+  "name": "email-falso",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/charlie632/email-falso.git",
+  "author": "charlie632 <charlie.caoa@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "sendgrid": "^5.2.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
